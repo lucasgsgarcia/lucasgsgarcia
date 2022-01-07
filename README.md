@@ -27,4 +27,4 @@
  <img align="center" alt="JUnit" height="30" width="40" src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67">
 </div>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lucasgsgarcia/lucasgsgarcia/blob/output/github-contribution-grid-snake.svg)
