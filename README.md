@@ -29,5 +29,3 @@
 Atualmente, estou cursando o 5º período do curso Sistemas para Internet. Fora os estudos acadêmicos, procuro praticar em projetos individuais ou em grupo.
 Estou buscando uma oportunidade para criar experiências profissionais em meu ramo, preferencialmente envolvendo a linguagem Java e suas tecnologias.
 Porém, isso não implica no desejo de aprender novas tecnologias e aplicá-las. Para cada problema existem soluções diferentes.
-
-  ![Snake animation](https://github.com/lucasgsgarcia/lucasgsgarcia/blob/output/github-contribution-grid-snake.svg)
