@@ -26,4 +26,8 @@
  <img align="center" alt="JUnit" height="30" width="40" src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67">
 </div>
 
+Atualmente, estou cursando o 5º período do curso Sistemas para Internet. Fora os estudos acadêmicos, procuro praticar em projetos individuais ou em grupo.
+Estou buscando uma oportunidade para criar experiências profissionais em meu ramo, preferencialmente envolvendo a linguagem Java e suas tecnologias.
+Porém, isso não implica no desejo de aprender novas tecnologias e aplicá-las. Para cada problema existem soluções diferentes.
+
   ![Snake animation](https://github.com/lucasgsgarcia/lucasgsgarcia/blob/output/github-contribution-grid-snake.svg)
