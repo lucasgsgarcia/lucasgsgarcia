@@ -15,17 +15,20 @@
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
 </div></br>
-    > Currently learning: JWT Security and JUNIT
-     </br> </br>
+    > Currently learning: Spring Security
+     </br>
      
 <div style="display: inline_block"><br>
  <img align="center" alt="JUnit" height="30" width="40" src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67">
-</div>
+</div></br>
 
 Atualmente, estou cursando o 5º período do curso Sistemas para Internet. Fora os estudos acadêmicos, procuro praticar em projetos individuais ou em grupo.
 Estou buscando uma oportunidade para criar experiências profissionais em meu ramo, preferencialmente envolvendo a linguagem Java e suas tecnologias.
 Porém, isso não implica no desejo de aprender novas tecnologias e aplicá-las. Para cada problema existem soluções diferentes.
+</br>
+
+Estudos secundários:  
+<div style="display: inline_block">
+<img align="center" alt="GoLang" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+</div>
