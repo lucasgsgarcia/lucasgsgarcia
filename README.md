@@ -23,10 +23,4 @@ Estou buscando uma oportunidade para criar experiências profissionais em meu ra
 Porém, isso não implica no desejo de aprender novas tecnologias e aplicá-las. Para cada problema existem soluções diferentes.
 </br>
 
-Repositório de estudo atual: 
-<a href="https://github.com/Theusaopia/bet-system-spring" target="_blank">Bet System</a>
 
-Estudos secundários:  
-<div style="display: inline_block">
-<img align="center" alt="GoLang" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-</div>
