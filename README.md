@@ -15,7 +15,11 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 </div></br>
-    > Currently learning: Spring HATEOAS
+    > Estudando:</br></br>
+<div style="display: inline_block">
+<img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+<img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+</div>
      </br></br>
 
 Atualmente, estou cursando o 5º período do curso Sistemas para Internet. Fora os estudos acadêmicos, procuro praticar em projetos individuais ou em grupo.
