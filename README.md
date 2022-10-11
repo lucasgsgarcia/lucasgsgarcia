@@ -17,7 +17,7 @@
 </div></br>
 
 Atualmente, estou cursando o 6º período do curso Sistemas para Internet. Procuro me inlcuir em projetos individuais ou em grupo. Busco experiências com trabalho em equipe para praticar com outras linhas de raciocínio e entender um pouco sobre trabalho em grupo.
-Estou buscando uma oportunidade para criar experiências profissionais em meu ramo, preferencialmente envolvendo a linguagem Java e suas tecnologias - porém, aceitaria aprender outras stacks sem problema algum. Procuro estudar um pouco sobre qualidade de código, gosto da ideia de que preciso produzir algo que outro desenvolvedor terá que entender e estou começando a aplicar agora esses conhecimentos. 
+Procuro estudar um pouco sobre qualidade de código, gosto da ideia de que preciso produzir algo que outro desenvolvedor terá que entender e estou começando a aplicar agora esses conhecimentos. 
 </br>
 
 
