@@ -27,7 +27,7 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
 </div></br>
 
-Atualmente, estou cursando o 6º período do curso Sistemas para Internet. Procuro me incluir em projetos individuais ou em grupo. Busco experiências com trabalho em equipe para praticar com outras linhas de raciocínio. Realizo estudos sobre qualidade de código, gosto da ideia de que preciso produzir algo que outro desenvolvedor terá que entender e estou aplicando diariamente esses conceitos.
+Atualmente, estou cursando o 6º período do curso Sistemas para Internet na UTFPR. Procuro me incluir em projetos individuais ou em grupo. Busco experiências com trabalho em equipe para praticar com outras linhas de raciocínio.
 </br>
 
 
