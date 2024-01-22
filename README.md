@@ -1,4 +1,5 @@
-### Student - UTFPR - Sistemas para Internet 
+### 🎓 Graduated - Internet Systems at UTFPR
+### 👨‍💻 Back End Developer at Helte
 
   Trabalho com:
   <div style="display: inline_block"><br>
