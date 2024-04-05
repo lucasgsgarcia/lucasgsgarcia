@@ -1,5 +1,5 @@
 ### 🎓 Graduated - Internet Systems at UTFPR
-### 👨‍💻 Back End Developer at Helte
+### 👨🏻‍💻 Back end Developer at ITA Frotas <img align="center" alt="ITA" height="30" width="40" src="https://itafrotas.com/wp-content/uploads/2022/04/ita-logo-completa.svg">
 
   Trabalho com:
   <div style="display: inline_block"><br>
