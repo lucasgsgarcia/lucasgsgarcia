@@ -1,18 +1,16 @@
 ### 🎓 Graduated - Internet Systems at UTFPR
-### 👨🏻‍💻 Software Developer at Localiza <img align="center" alt="ITA" height="30" width="30" src="https://logosandtypes.com/wp-content/uploads/2024/02/localiza.svg">
+### 👨🏻‍💻 Software Developer at Localiza <img src="https://logosandtypes.com/wp-content/uploads/2024/02/localiza.svg" height="20" style="vertical-align: middle;">
 
-  Main Technologies Skills:
-  <br>
-    <div style="display: inline_block">
-      <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg">
-      <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
-      <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-      <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-      <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-      <img align="center" alt="MongoDb" height="30" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
-      <img align="center" alt="RabbitMq" height="30" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg">
-    </div>
-  </br>
+Main Technologies Skills:  
+<p align="left">
+  <img alt="C#" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg">
+  <img alt=".NET" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+  <img alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img alt="SQL Server" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img alt="MongoDb" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
+  <img alt="RabbitMq" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg">
+</p>
 
 I'm always involved in group projects with different purposes, seeking not only technical knowledge, but also business knowledge and interaction.
 Major developments:
